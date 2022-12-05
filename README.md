@@ -3,7 +3,7 @@
 	<head>
 		<title>Mi Amigo Acuático</title>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-		<link rel="stylesheet" 
+		 
 		
 	</head>
 	<body bgcolor="#bceeff">
