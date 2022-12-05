@@ -1,9 +1,10 @@
-<!doctype html>
+<!Doctype html>
+
 <html>
 	<head>
 		<title>Mi Amigo Acuático</title>
 		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-		<link rel="stylesheet" 
+		
 		
 	</head>
 	<body bgcolor="#bceeff">
@@ -51,7 +52,7 @@
 		<nav class="menu">
 			<ul>
 				<a 
-				href="file:///Volumes/KINGSTON/Ahora%20Sublime/Peces%20de%20Tropicales.html"><font size="6" color="#0A0A0A" face="Helvética">
+				href="https://miamigoacuaticoso.github.io/pecestropicales/"><font size="6" color="#0A0A0A" face="Helvética">
 				<SPAN style="font-weight:bold">
 					<div class="img-container"> <!-- Block parent element -->
 				Peces Tropicales
@@ -66,7 +67,7 @@
 					<img src = "https://images.unsplash.com/photo-1578507065211-1c4e99a5fd24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmV0dGElMjBmaXNofGVufDB8fDB8fA%3D%3D&w=1000&q=80" height="200" width="325">
 				</div>
 				<br>
-				<a href="file:///D:/AlberD/Escuela/Infirm%C3%A1tica/Ahora%20Sublime/Peces%20de%20agua%20templada.html"><font size="6" color="#0A0A0A" face="Helvética">
+				<a href="https://miamigoacuaticoso.github.io/pecesdeaguatemplada/"><font size="6" color="#0A0A0A" face="Helvética">
 				<SPAN style="font-weight:bold">
 					<div class="img-container"> <!-- Block parent element -->
 				Peces De Aguas Templadas
@@ -76,7 +77,7 @@
 					<img src = "https://img.freepik.com/fotos-premium/paracanthurus-hepatus-pez-cirujano-azul-agua-mar_163782-7348.jpg" height="200" width="325">
                 </div>
                 <br>
-				<a href="file:///D:/AlberD/Escuela/Infirm%C3%A1tica/Ahora%20Sublime/Andrea%20dulce.html"><font size="6" color="#0A0A0A" face="Helvética">
+				<a href="https://miamigoacuaticoso.github.io/pecesdeaguadulce/"><font size="6" color="#0A0A0A" face="Helvética">
 				<SPAN style="font-weight:bold">
 					<div class="img-container"> <!-- Block parent element -->
 				Peces De Agua Dulce
@@ -86,7 +87,7 @@
 					<img src = "https://www.wallpaperup.com/uploads/wallpapers/2018/10/23/1299494/b2089bffae94fda2e83086b546e3d1fe-700.jpg" height="200" width="325">
 				</div>
 				<br>
-				<a href="file:///D:/AlberD/Escuela/Infirm%C3%A1tica/Ahora%20Sublime/Peces%20de%20agua%20salada.html"><font size="6" color="#0A0A0A" face="Helvética">
+				<a href="https://miamigoacuaticoso.github.io/pecesdeaguasalada/"><font size="6" color="#0A0A0A" face="Helvética">
 				<SPAN style="font-weight:bold">
 					<div class="img-container"> <!-- Block parent element -->
 				Peces De Agua Salada
@@ -96,7 +97,7 @@
 					<img src = "https://www.nationalgeographic.com.es/medio/2019/01/30/pezpayaso4_bdb6bc4f_1200x630.jpg" height="200" width="325">
 				</div>
 				<br>
-				<a href="file:///D:/AlberD/Escuela/Infirm%C3%A1tica/Ahora%20Sublime/Gimena%20no%20peces.html"><font size="6" color="#0A0A0A" face="Helvética">
+				<a href="https://miamigoacuaticoso.github.io/pecesquenosonpeces/"><font size="6" color="#0A0A0A" face="Helvética">
 				<SPAN style="font-weight:bold">
 					<div class="img-container"> <!-- Block parent element -->
 				Peces Que No Son Peces
